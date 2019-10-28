@@ -2,6 +2,8 @@
 
 # Contents
 
+NOTE: Updated and most likely broken by me.  Please go to the original repository for a working version of this very convenient collection.
+
 - Introduction
   - [Overview](#a-prometheus--grafana-docker-compose-stack)
   - [Pre-requisites](#pre-requisites)
